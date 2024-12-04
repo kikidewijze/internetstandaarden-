@@ -1,0 +1,17 @@
+body{
+background-color: darksalmon;
+color: rgb(224, 24, 24);
+font-family: fantasy
+} 
+h2 {
+    color: purple
+    font-size: 0 
+    font-weight:bolder;
+    font-family: times 
+}
+h3{font-family: Georgia, 'Times New Roman', Times, serif;}
+p { font-family: Georgia, 'Times New Roman', Times, serif
+    ;}
+img {
+    width: 10em;
+}
